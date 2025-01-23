@@ -70,7 +70,7 @@ const ActionButtons = () => {
     }
     
     return (
-        <div className="flex justify-between">
+        <div className="flex justify-between pb-2">
             <Button variant="secondary" size="sm" onClick={addFile}>
                 <Plus className='mr-2 size-5'/>
             </Button>

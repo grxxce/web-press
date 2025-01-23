@@ -9,7 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@supabase/ssr": "^0.5.2",
     "@supabase/supabase-js": "^2.48.0",
+    "@tiptap/pm": "^2.11.3",
+    "@tiptap/react": "^2.11.3",
+    "@tiptap/starter-kit": "^2.11.3",
     "@types/uuid": "^10.0.0",
     "lucide-react": "^0.473.0",
     "next": "15.1.5",
